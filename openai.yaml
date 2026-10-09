@@ -1,0 +1,7 @@
+interface:
+  display_name: "奥德赛实况转绘"
+  short_description: "照片转马里奥奥德赛实机截图质感提示词"
+  default_prompt: "使用 $mario-odyssey-transfer 将这张参考照片转成 Nintendo Switch《超级马力欧：奥德赛》实机截图质感，并输出可复用提示词。"
+
+policy:
+  allow_implicit_invocation: true
